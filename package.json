@@ -1,7 +1,7 @@
 {
   "name": "upm-package.json",
-  "version": "1.0.1",
-  "description": "Quickly create a package.json file for your Unity Package Manager package",
+  "version": "1.0.2",
+  "description": "NPX Package to quickly create a package.json file for your Unity Package Manager package",
   "homepage": "https://github.com/springpunk/upm-package.json#readme",
   "main": "src/index.js",
   "bin": "src/index.js",

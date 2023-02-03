@@ -1,0 +1,29 @@
+{
+  "name": "upm-package.json",
+  "version": "1.0.0",
+  "description": "Quickly create a package.json file for your Unity Package Manager package",
+  "homepage": "https://github.com/springpunk/upm-package.json#readme",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "unity",
+    "package manager",
+    "unity engine",
+    "unity3d",
+    "c#"
+  ],
+  "author": {
+    "name": "Springpunk Games",
+    "url": "https://springpunk.net"
+  },
+  "publishConfig": {
+    "access": "public",
+    "branches": [
+      "main"
+    ]
+  },
+  "license": "ISC"
+}
